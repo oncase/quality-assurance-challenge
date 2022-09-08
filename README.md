@@ -1,4 +1,4 @@
-# Code Challenge QA Juntos Somos+
+# Desafio Oncase | Quality Assurance
 
 Primeiramente, não se preocupe em entregar algo perfeito, sério, não é isso que queremos neste desafio. O propósito dele é simples: queremos conhecer suas abordagens para entender regras de negócios, coletar cenários de testes, fluxos e afins.
 
@@ -46,8 +46,10 @@ Abaixo seguem algumas dicas falando de tecnologia e tals que podem endossar ou n
 
 # Como entregar
 
-Você deve disponibilizar seu código em algum serviço de hospedagem como Bitbucket, GitLab ou GitHub e manter o repositório como privado.
+Você deve disponibilizar seu código em algum serviço de hospedagem como Bitbucket, GitLab ou GitHub e manter o repositório como público.
 
 É obrigatório ter um  **README**  com todas as instruções sobre o seu desafio, não esqueça de nos informar a linha de comando para rodar os testes!
 
-Assim que finalizar, nos avise para enviarmos os usuários que devem ter acesso para avaliação.
+# Dúvidas?
+
+Envie suas questões diretamente para raniel.silva@oncase.com.br ou abra uma issue.
